@@ -1,0 +1,59 @@
+[
+    {
+        "productid" : "001",
+        "productname" : "Dell Inspiron 1",
+        "productdesc" : "Dell is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+        "productprice" : "53,900",
+        "productimage" : "https://i.dell.com/sites/csimages/Video_Imagery/all/xps_7590_touch.png"
+    },
+    {
+        "productid" : "002",
+        "productname" : "Dell Inspiron 2",
+        "productdesc" : "Dell is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+        "productprice" : "59,000",
+        "productimage" : "https://justcreative.com/wp-content/uploads/2019/08/xps-13-1000x563.jpg"
+    },
+    {
+        "productid" : "003",
+        "productname" : "Dell Inspiron 3",
+        "productdesc" : "Dell is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+        "productprice" : "49,000",
+        "productimage" : "https://www.technobezz.com/best/wp-content/uploads/2018/10/Best-Dell-Laptops-15.6-inch-1026x500.jpg"
+    },
+    {
+        "productid" : "004",
+        "productname" : "Dell Inspiron 4",
+        "productdesc" : "Dell is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+        "productprice" : "65,000",
+        "productimage" : "https://www.technobezz.com/best/wp-content/uploads/2019/11/Dell-I3565-A453BLK-PUS-Dual-Core-Processor.jpg"
+    },
+    
+    {
+        "productid" : "005",
+        "productname" : "Dell Inspiron 1",
+        "productdesc" : "Dell is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+        "productprice" : "53,900",
+        "productimage" : "https://i.dell.com/sites/csimages/Video_Imagery/all/xps_7590_touch.png"
+    },
+    {
+        "productid" : "006",
+        "productname" : "Dell Inspiron 2",
+        "productdesc" : "Dell is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+        "productprice" : "59,000",
+        "productimage" : "https://justcreative.com/wp-content/uploads/2019/08/xps-13-1000x563.jpg"
+    },
+    {
+        "productid" : "007",
+        "productname" : "Dell Inspiron 3",
+        "productdesc" : "Dell is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+        "productprice" : "49,000",
+        "productimage" : "https://www.technobezz.com/best/wp-content/uploads/2018/10/Best-Dell-Laptops-15.6-inch-1026x500.jpg"
+    },
+    {
+        "productid" : "008",
+        "productname" : "Dell Inspiron 4",
+        "productdesc" : "Dell is an American multinational computer technology company that develops, sells, repairs, and supports computers and related products and services.",
+        "productprice" : "65,000",
+        "productimage" : "https://www.technobezz.com/best/wp-content/uploads/2019/11/Dell-I3565-A453BLK-PUS-Dual-Core-Processor.jpg"
+    }
+]

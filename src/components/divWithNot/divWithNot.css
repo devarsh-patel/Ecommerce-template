@@ -1,0 +1,43 @@
+.DivWithNot {
+    display: grid;
+    position: relative;
+    height: fit-content;
+    width: fit-content;
+    place-items: center;
+    padding: 3px;
+}
+
+@keyframes anim {
+    0% {
+        transform: scale(0);
+    }
+    
+    50% {
+        transform: scale(1.2);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.DivWithNot-not {
+    position: absolute;
+    height: 14px;
+    width: 14px;
+    top: 0%;
+    right: 0%;
+    border-radius: 50%;
+    /* transform: translateX(50%); */
+    font-size: 10px;
+    line-height: 12px;
+    text-align: center;
+    background: red;
+    color: white;
+    animation: anim 0.7s;
+}
+
+.DivWithNot-not span{
+    position: relative;
+    top: 1px;
+    left: 0.5px;
+}
